@@ -58,7 +58,7 @@ Used languages
   <img width="12" />
   <img src="https://github.com/iterative/vscode-dvc/blob/main/extension/docs/dvc.png" height="40" alt="mlflow logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"  height="40" alt="apache logo"/>
   <img width="12" />        
           
           
