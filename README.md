@@ -1,4 +1,5 @@
 <h1 align="center">Hey There!👋</h1>
+<h1 align="center">👋 Hi! My name is Bhaskar Mulik — I’m a 3rd-year Computer Engineering student at Mumbai University 🎓. I’m passionate about tech 💻, love solving real-world problems 🌍, and I'm always excited to contribute to projects that make a real impact 🚀💡. Let’s create something awesome together! 🤝✨</h1>
 <!--
 Profile count
 <div align="left"> 
