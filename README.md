@@ -5,17 +5,12 @@
 <h3 align="center">I'm Bhaskar Mulik, a 3rd-year Computer Engineering student at Mumbai University 🎓. I'm passionate about leveraging data 📊 to uncover insights 🔍, solve real-world problems 🌍, and build impactful solutions using data science 🧠. I also love designing and building beautiful, functional robotics systems 🤖 that bring innovation to life.
 Always excited to collaborate on meaningful tech projects — let's create something amazing together! 🚀</h3>
 <!--
-Profile count
+Github stats and languages graph
 -->
 </br>
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/bhaskarmulik/count.svg" alt="Visitor's Count" />
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=bhaskarmulik&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Bhaskar Mulik's GitHub Stats" />
 
-
-<!--
-Used languages
--->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskarmulik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
